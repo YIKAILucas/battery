@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = oss://lucas-dvc/mlflow
+    oss_endpoint = oss-cn-shanghai.aliyuncs.com
